@@ -93,7 +93,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-    <img src="https://www.pngwing.com/en/search?q=burp%2BSuite" alt="burpsuite" width="40" height="40"/>
+    <img src="https://w7.pngwing.com/pngs/548/381/png-transparent-burp-suite-alt-macos-bigsur-icon.png" alt="burpsuite" width="40" height="40"/>
   </a>
 </p>
 
